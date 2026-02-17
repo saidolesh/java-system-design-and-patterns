@@ -13,3 +13,4 @@ Singleton is mainly used in:
 (iv) Caching Systems
 
 
+
